@@ -1,5 +1,6 @@
 body {
   margin:0;
+  background-color: black;
 }
 
 #welcome-section {
@@ -12,5 +13,6 @@ body {
 
 .welcome-header {
   text-align: center;
+  color: white;
   /*vertical-align: center; useless*/
 }
